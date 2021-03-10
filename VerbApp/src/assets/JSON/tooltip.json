@@ -1,5 +1,9 @@
 [
     {
+        "type": "preverb",
+        "tip": "<p>Insert Preverb Description</p>"
+    },
+    {
         "type": "verb",
         "tip": "<p>Insert Verb Description</p>"
     },
@@ -8,7 +12,7 @@
         "tip": "<p>Insert Subject Description</p>"
     },
     {
-        "type": "option",
-        "tip": "<p>Insert Option Description</p>"
+        "type": "object",
+        "tip": "<p>Insert Object Description</p>"
     }
 ]
