@@ -1,228 +1,408 @@
 {
-    "": {
-        "ashkimevai1": {
-            "1sg": [
-                "none"
-            ],
-            "2sg": [
-                "none"
-            ],
-            "3sg": [
-                "none"
-            ]
-        },
-        "p\u00c3\u00b2dawevai1": {
-            "1sg": [
-                "none"
-            ],
-            "2sg": [
-                "none"
-            ],
-            "3sg": [
-                "none"
-            ]
-        },
-        "sh\u00c3\u00b2shkw\u00c3\u00a0dayevai1": {
-            "1sg": [
-                "none"
-            ],
-            "2sg": [
-                "none"
-            ],
-            "3sg": [
-                "none"
-            ]
-        },
-        "t\u00c3\u00a0shkahisevai1": {
-            "1sg": [
-                "none"
-            ],
-            "2sg": [
-                "none"
-            ],
-            "3sg": [
-                "none"
-            ]
-        },
-        "\u00c3\u00a0gimikevai1": {
-            "1sg": [
-                "none"
-            ],
-            "2sg": [
-                "none"
-            ],
-            "3sg": [
-                "none"
-            ]
-        }
-    },
     "kagwedj-": {
         "ashkimevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         },
         "p\u00c3\u00b2dawevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         },
         "sh\u00c3\u00b2shkw\u00c3\u00a0dayevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         },
         "t\u00c3\u00a0shkahisevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         },
         "\u00c3\u00a0gimikevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         }
     },
     "m\u00c3\u00a0dj\u00c3\u00ac-": {
         "ashkimevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         },
         "p\u00c3\u00b2dawevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         },
         "sh\u00c3\u00b2shkw\u00c3\u00a0dayevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         },
         "t\u00c3\u00a0shkahisevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         },
         "\u00c3\u00a0gimikevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
+                "none"
+            ]
+        }
+    },
+    "none": {
+        "ashkimevai1": {
+            "conj1sg": [
+                "none"
+            ],
+            "conj2sg": [
+                "none"
+            ],
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
+                "none"
+            ]
+        },
+        "p\u00c3\u00b2dawevai1": {
+            "conj1sg": [
+                "none"
+            ],
+            "conj2sg": [
+                "none"
+            ],
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
+                "none"
+            ]
+        },
+        "sh\u00c3\u00b2shkw\u00c3\u00a0dayevai1": {
+            "conj1sg": [
+                "none"
+            ],
+            "conj2sg": [
+                "none"
+            ],
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
+                "none"
+            ]
+        },
+        "t\u00c3\u00a0shkahisevai1": {
+            "conj1sg": [
+                "none"
+            ],
+            "conj2sg": [
+                "none"
+            ],
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
+                "none"
+            ]
+        },
+        "\u00c3\u00a0gimikevai1": {
+            "conj1sg": [
+                "none"
+            ],
+            "conj2sg": [
+                "none"
+            ],
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         }
     },
     "w\u00c3\u00ac-": {
         "ashkimevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         },
         "p\u00c3\u00b2dawevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         },
         "sh\u00c3\u00b2shkw\u00c3\u00a0dayevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         },
         "t\u00c3\u00a0shkahisevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         },
         "\u00c3\u00a0gimikevai1": {
-            "1sg": [
+            "conj1sg": [
                 "none"
             ],
-            "2sg": [
+            "conj2sg": [
                 "none"
             ],
-            "3sg": [
+            "conj3sg": [
+                "none"
+            ],
+            "ind1sg": [
+                "none"
+            ],
+            "ind2sg": [
+                "none"
+            ],
+            "ind3sg": [
                 "none"
             ]
         }

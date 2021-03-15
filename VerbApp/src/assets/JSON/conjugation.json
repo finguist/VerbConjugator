@@ -7,410 +7,650 @@
         "conjugation"
     ],
     {
-        "": {
-            "ashkimevai1": {
-                "1sg": {
-                    "none": [
-                        "ni-dashkime",
-                        "ashkimey\u00c3\u00a0n"
-                    ]
-                },
-                "2sg": {
-                    "none": [
-                        "ni-dashkime",
-                        "ashkimeyan"
-                    ]
-                },
-                "3sg": {
-                    "none": [
-                        "ashkime",
-                        "ashkimenidj"
-                    ]
-                }
-            },
-            "p\u00c3\u00b2dawevai1": {
-                "1sg": {
-                    "none": [
-                        "ni-p\u00c3\u00b2dawe",
-                        "p\u00c3\u00b2dawey\u00c3\u00a0n"
-                    ]
-                },
-                "2sg": {
-                    "none": [
-                        "ni-p\u00c3\u00b2dawe",
-                        "p\u00c3\u00b2daweyan"
-                    ]
-                },
-                "3sg": {
-                    "none": [
-                        "p\u00c3\u00b2dawe",
-                        "p\u00c3\u00b2dawenidj"
-                    ]
-                }
-            },
-            "sh\u00c3\u00b2shkw\u00c3\u00a0dayevai1": {
-                "1sg": {
-                    "none": [
-                        "ni-sh\u00c3\u00b2shkw\u00c3\u00a0daye",
-                        "sh\u00c3\u00b2shkw\u00c3\u00a0dayey\u00c3\u00a0n"
-                    ]
-                },
-                "2sg": {
-                    "none": [
-                        "ni-sh\u00c3\u00b2shkw\u00c3\u00a0daye",
-                        "sh\u00c3\u00b2shkw\u00c3\u00a0dayeyan"
-                    ]
-                },
-                "3sg": {
-                    "none": [
-                        "sh\u00c3\u00b2shkw\u00c3\u00a0daye",
-                        "sh\u00c3\u00b2shkw\u00c3\u00a0dayenidj"
-                    ]
-                }
-            },
-            "t\u00c3\u00a0shkahisevai1": {
-                "1sg": {
-                    "none": [
-                        "ni-t\u00c3\u00a0shkahise",
-                        "t\u00c3\u00a0shkahisey\u00c3\u00a0n"
-                    ]
-                },
-                "2sg": {
-                    "none": [
-                        "ni-t\u00c3\u00a0shkahise",
-                        "t\u00c3\u00a0shkahiseyan"
-                    ]
-                },
-                "3sg": {
-                    "none": [
-                        "t\u00c3\u00a0shkahise",
-                        "t\u00c3\u00a0shkahisenidj"
-                    ]
-                }
-            },
-            "\u00c3\u00a0gimikevai1": {
-                "1sg": {
-                    "none": [
-                        "ni-d\u00c3\u00a0gimike",
-                        "\u00c3\u00a0gimikey\u00c3\u00a0n"
-                    ]
-                },
-                "2sg": {
-                    "none": [
-                        "ni-d\u00c3\u00a0gimike",
-                        "\u00c3\u00a0gimikeyan"
-                    ]
-                },
-                "3sg": {
-                    "none": [
-                        "\u00c3\u00a0gimike",
-                        "\u00c3\u00a0gimikenidj"
-                    ]
-                }
-            }
-        },
         "kagwedj-": {
             "ashkimevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-dkagwedj-ashkime",
                         "kagwedj-ashkimey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-dkagwedj-ashkime",
                         "kagwedj-ashkimeyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "kagwedj-ashkime",
                         "kagwedj-ashkimenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-kagwedj-ashkime"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-kagwedj-ashkime"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "kagwedj-ashkime"
                     ]
                 }
             },
             "p\u00c3\u00b2dawevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-kagwedj-p\u00c3\u00b2dawe",
                         "kagwedj-p\u00c3\u00b2dawey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-kagwedj-p\u00c3\u00b2dawe",
                         "kagwedj-p\u00c3\u00b2daweyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "kagwedj-p\u00c3\u00b2dawe",
                         "kagwedj-p\u00c3\u00b2dawenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-kagwedj-p\u00c3\u00b2dawe"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-kagwedj-p\u00c3\u00b2dawe"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "kagwedj-p\u00c3\u00b2dawe"
                     ]
                 }
             },
             "sh\u00c3\u00b2shkw\u00c3\u00a0dayevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-kagwedj-sh\u00c3\u00b2shkw\u00c3\u00a0daye",
                         "kagwedj-sh\u00c3\u00b2shkw\u00c3\u00a0dayey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-kagwedj-sh\u00c3\u00b2shkw\u00c3\u00a0daye",
                         "kagwedj-sh\u00c3\u00b2shkw\u00c3\u00a0dayeyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "kagwedj-sh\u00c3\u00b2shkw\u00c3\u00a0daye",
                         "kagwedj-sh\u00c3\u00b2shkw\u00c3\u00a0dayenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-kagwedj-sh\u00c3\u00b2shkw\u00c3\u00a0daye"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-kagwedj-sh\u00c3\u00b2shkw\u00c3\u00a0daye"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "kagwedj-sh\u00c3\u00b2shkw\u00c3\u00a0daye"
                     ]
                 }
             },
             "t\u00c3\u00a0shkahisevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-kagwedj-t\u00c3\u00a0shkahise",
                         "kagwedj-t\u00c3\u00a0shkahisey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-kagwedj-t\u00c3\u00a0shkahise",
                         "kagwedj-t\u00c3\u00a0shkahiseyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "kagwedj-t\u00c3\u00a0shkahise",
                         "kagwedj-t\u00c3\u00a0shkahisenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-kagwedj-t\u00c3\u00a0shkahise"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-kagwedj-t\u00c3\u00a0shkahise"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "kagwedj-t\u00c3\u00a0shkahise"
                     ]
                 }
             },
             "\u00c3\u00a0gimikevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-dkagwedj-\u00c3\u00a0gimike",
                         "kagwedj-\u00c3\u00a0gimikey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-dkagwedj-\u00c3\u00a0gimike",
                         "kagwedj-\u00c3\u00a0gimikeyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "kagwedj-\u00c3\u00a0gimike",
                         "kagwedj-\u00c3\u00a0gimikenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-kagwedj-\u00c3\u00a0gimike"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-kagwedj-\u00c3\u00a0gimike"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "kagwedj-\u00c3\u00a0gimike"
                     ]
                 }
             }
         },
         "m\u00c3\u00a0dj\u00c3\u00ac-": {
             "ashkimevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-dm\u00c3\u00a0dj\u00c3\u00ac-ashkime",
                         "m\u00c3\u00a0dj\u00c3\u00ac-ashkimey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-dm\u00c3\u00a0dj\u00c3\u00ac-ashkime",
                         "m\u00c3\u00a0dj\u00c3\u00ac-ashkimeyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "m\u00c3\u00a0dj\u00c3\u00ac-ashkime",
                         "m\u00c3\u00a0dj\u00c3\u00ac-ashkimenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-m\u00c3\u00a0dj\u00c3\u00ac-ashkime"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-m\u00c3\u00a0dj\u00c3\u00ac-ashkime"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "m\u00c3\u00a0dj\u00c3\u00ac-ashkime"
                     ]
                 }
             },
             "p\u00c3\u00b2dawevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-m\u00c3\u00a0dj\u00c3\u00ac-p\u00c3\u00b2dawe",
                         "m\u00c3\u00a0dj\u00c3\u00ac-p\u00c3\u00b2dawey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-m\u00c3\u00a0dj\u00c3\u00ac-p\u00c3\u00b2dawe",
                         "m\u00c3\u00a0dj\u00c3\u00ac-p\u00c3\u00b2daweyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "m\u00c3\u00a0dj\u00c3\u00ac-p\u00c3\u00b2dawe",
                         "m\u00c3\u00a0dj\u00c3\u00ac-p\u00c3\u00b2dawenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-m\u00c3\u00a0dj\u00c3\u00ac-p\u00c3\u00b2dawe"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-m\u00c3\u00a0dj\u00c3\u00ac-p\u00c3\u00b2dawe"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "m\u00c3\u00a0dj\u00c3\u00ac-p\u00c3\u00b2dawe"
                     ]
                 }
             },
             "sh\u00c3\u00b2shkw\u00c3\u00a0dayevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-m\u00c3\u00a0dj\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0daye",
                         "m\u00c3\u00a0dj\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0dayey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-m\u00c3\u00a0dj\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0daye",
                         "m\u00c3\u00a0dj\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0dayeyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "m\u00c3\u00a0dj\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0daye",
                         "m\u00c3\u00a0dj\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0dayenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-m\u00c3\u00a0dj\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0daye"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-m\u00c3\u00a0dj\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0daye"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "m\u00c3\u00a0dj\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0daye"
                     ]
                 }
             },
             "t\u00c3\u00a0shkahisevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-m\u00c3\u00a0dj\u00c3\u00ac-t\u00c3\u00a0shkahise",
                         "m\u00c3\u00a0dj\u00c3\u00ac-t\u00c3\u00a0shkahisey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-m\u00c3\u00a0dj\u00c3\u00ac-t\u00c3\u00a0shkahise",
                         "m\u00c3\u00a0dj\u00c3\u00ac-t\u00c3\u00a0shkahiseyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "m\u00c3\u00a0dj\u00c3\u00ac-t\u00c3\u00a0shkahise",
                         "m\u00c3\u00a0dj\u00c3\u00ac-t\u00c3\u00a0shkahisenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-m\u00c3\u00a0dj\u00c3\u00ac-t\u00c3\u00a0shkahise"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-m\u00c3\u00a0dj\u00c3\u00ac-t\u00c3\u00a0shkahise"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "m\u00c3\u00a0dj\u00c3\u00ac-t\u00c3\u00a0shkahise"
                     ]
                 }
             },
             "\u00c3\u00a0gimikevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-dm\u00c3\u00a0dj\u00c3\u00ac-\u00c3\u00a0gimike",
                         "m\u00c3\u00a0dj\u00c3\u00ac-\u00c3\u00a0gimikey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-dm\u00c3\u00a0dj\u00c3\u00ac-\u00c3\u00a0gimike",
                         "m\u00c3\u00a0dj\u00c3\u00ac-\u00c3\u00a0gimikeyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "m\u00c3\u00a0dj\u00c3\u00ac-\u00c3\u00a0gimike",
                         "m\u00c3\u00a0dj\u00c3\u00ac-\u00c3\u00a0gimikenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-m\u00c3\u00a0dj\u00c3\u00ac-\u00c3\u00a0gimike"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-m\u00c3\u00a0dj\u00c3\u00ac-\u00c3\u00a0gimike"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "m\u00c3\u00a0dj\u00c3\u00ac-\u00c3\u00a0gimike"
+                    ]
+                }
+            }
+        },
+        "none": {
+            "ashkimevai1": {
+                "conj1sg": {
+                    "none": [
+                        "ashkimey\u00c3\u00a0n"
+                    ]
+                },
+                "conj2sg": {
+                    "none": [
+                        "ashkimeyan"
+                    ]
+                },
+                "conj3sg": {
+                    "none": [
+                        "ashkimenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-dashkime"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-ashkime"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "ashkime"
+                    ]
+                }
+            },
+            "p\u00c3\u00b2dawevai1": {
+                "conj1sg": {
+                    "none": [
+                        "p\u00c3\u00b2dawey\u00c3\u00a0n"
+                    ]
+                },
+                "conj2sg": {
+                    "none": [
+                        "p\u00c3\u00b2daweyan"
+                    ]
+                },
+                "conj3sg": {
+                    "none": [
+                        "p\u00c3\u00b2dawenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-p\u00c3\u00b2dawe"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-p\u00c3\u00b2dawe"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "p\u00c3\u00b2dawe"
+                    ]
+                }
+            },
+            "sh\u00c3\u00b2shkw\u00c3\u00a0dayevai1": {
+                "conj1sg": {
+                    "none": [
+                        "sh\u00c3\u00b2shkw\u00c3\u00a0dayey\u00c3\u00a0n"
+                    ]
+                },
+                "conj2sg": {
+                    "none": [
+                        "sh\u00c3\u00b2shkw\u00c3\u00a0dayeyan"
+                    ]
+                },
+                "conj3sg": {
+                    "none": [
+                        "sh\u00c3\u00b2shkw\u00c3\u00a0dayenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-sh\u00c3\u00b2shkw\u00c3\u00a0daye"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-sh\u00c3\u00b2shkw\u00c3\u00a0daye"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "sh\u00c3\u00b2shkw\u00c3\u00a0daye"
+                    ]
+                }
+            },
+            "t\u00c3\u00a0shkahisevai1": {
+                "conj1sg": {
+                    "none": [
+                        "t\u00c3\u00a0shkahisey\u00c3\u00a0n"
+                    ]
+                },
+                "conj2sg": {
+                    "none": [
+                        "t\u00c3\u00a0shkahiseyan"
+                    ]
+                },
+                "conj3sg": {
+                    "none": [
+                        "t\u00c3\u00a0shkahisenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-t\u00c3\u00a0shkahise"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-t\u00c3\u00a0shkahise"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "t\u00c3\u00a0shkahise"
+                    ]
+                }
+            },
+            "\u00c3\u00a0gimikevai1": {
+                "conj1sg": {
+                    "none": [
+                        "\u00c3\u00a0gimikey\u00c3\u00a0n"
+                    ]
+                },
+                "conj2sg": {
+                    "none": [
+                        "\u00c3\u00a0gimikeyan"
+                    ]
+                },
+                "conj3sg": {
+                    "none": [
+                        "\u00c3\u00a0gimikenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-d\u00c3\u00a0gimike"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-\u00c3\u00a0gimike"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "\u00c3\u00a0gimike"
                     ]
                 }
             }
         },
         "w\u00c3\u00ac-": {
             "ashkimevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-dw\u00c3\u00ac-ashkime",
                         "w\u00c3\u00ac-ashkimey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-dw\u00c3\u00ac-ashkime",
                         "w\u00c3\u00ac-ashkimeyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "w\u00c3\u00ac-ashkime",
                         "w\u00c3\u00ac-ashkimenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-w\u00c3\u00ac-ashkime"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-w\u00c3\u00ac-ashkime"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "w\u00c3\u00ac-ashkime"
                     ]
                 }
             },
             "p\u00c3\u00b2dawevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-w\u00c3\u00ac-p\u00c3\u00b2dawe",
                         "w\u00c3\u00ac-p\u00c3\u00b2dawey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-w\u00c3\u00ac-p\u00c3\u00b2dawe",
                         "w\u00c3\u00ac-p\u00c3\u00b2daweyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "w\u00c3\u00ac-p\u00c3\u00b2dawe",
                         "w\u00c3\u00ac-p\u00c3\u00b2dawenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-w\u00c3\u00ac-p\u00c3\u00b2dawe"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-w\u00c3\u00ac-p\u00c3\u00b2dawe"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "w\u00c3\u00ac-p\u00c3\u00b2dawe"
                     ]
                 }
             },
             "sh\u00c3\u00b2shkw\u00c3\u00a0dayevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-w\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0daye",
                         "w\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0dayey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-w\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0daye",
                         "w\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0dayeyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "w\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0daye",
                         "w\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0dayenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-w\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0daye"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-w\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0daye"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "w\u00c3\u00ac-sh\u00c3\u00b2shkw\u00c3\u00a0daye"
                     ]
                 }
             },
             "t\u00c3\u00a0shkahisevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-w\u00c3\u00ac-t\u00c3\u00a0shkahise",
                         "w\u00c3\u00ac-t\u00c3\u00a0shkahisey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-w\u00c3\u00ac-t\u00c3\u00a0shkahise",
                         "w\u00c3\u00ac-t\u00c3\u00a0shkahiseyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "w\u00c3\u00ac-t\u00c3\u00a0shkahise",
                         "w\u00c3\u00ac-t\u00c3\u00a0shkahisenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-w\u00c3\u00ac-t\u00c3\u00a0shkahise"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-w\u00c3\u00ac-t\u00c3\u00a0shkahise"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "w\u00c3\u00ac-t\u00c3\u00a0shkahise"
                     ]
                 }
             },
             "\u00c3\u00a0gimikevai1": {
-                "1sg": {
+                "conj1sg": {
                     "none": [
-                        "ni-dw\u00c3\u00ac-\u00c3\u00a0gimike",
                         "w\u00c3\u00ac-\u00c3\u00a0gimikey\u00c3\u00a0n"
                     ]
                 },
-                "2sg": {
+                "conj2sg": {
                     "none": [
-                        "ni-dw\u00c3\u00ac-\u00c3\u00a0gimike",
                         "w\u00c3\u00ac-\u00c3\u00a0gimikeyan"
                     ]
                 },
-                "3sg": {
+                "conj3sg": {
                     "none": [
-                        "w\u00c3\u00ac-\u00c3\u00a0gimike",
                         "w\u00c3\u00ac-\u00c3\u00a0gimikenidj"
+                    ]
+                },
+                "ind1sg": {
+                    "none": [
+                        "ni-w\u00c3\u00ac-\u00c3\u00a0gimike"
+                    ]
+                },
+                "ind2sg": {
+                    "none": [
+                        "gi-w\u00c3\u00ac-\u00c3\u00a0gimike"
+                    ]
+                },
+                "ind3sg": {
+                    "none": [
+                        "w\u00c3\u00ac-\u00c3\u00a0gimike"
                     ]
                 }
             }

@@ -3,16 +3,16 @@
         "name": "preverb",
         "children": [
             {
-                "id": "None",
-                "translation": "No preverb"
-            },
-            {
                 "id": "kagwedj-",
                 "translation": "attempt to"
             },
             {
                 "id": "m\u00c3\u00a0dj\u00c3\u00ac-",
                 "translation": "begin to"
+            },
+            {
+                "id": "none",
+                "translation": "no preverb"
             },
             {
                 "id": "w\u00c3\u00ac-",
@@ -54,28 +54,34 @@
         "name": "subject",
         "children": [
             {
-                "translation": "as i",
-                "id": "1sg"
+                "id": "conj1sg",
+                "translation": "as i-",
+                "base": "1sg"
             },
             {
-                "translation": "i",
-                "id": "1sg"
+                "id": "conj2sg",
+                "translation": "as you (sg)-",
+                "base": "2sg"
             },
             {
-                "translation": "you (sg)",
-                "id": "2sg"
+                "id": "conj3sg",
+                "translation": "as he/she-",
+                "base": "3sg"
             },
             {
-                "translation": "as you (sg)",
-                "id": "2sg"
+                "id": "ind1sg",
+                "translation": "i-",
+                "base": "1sg"
             },
             {
-                "translation": "he/she",
-                "id": "3sg"
+                "id": "ind2sg",
+                "translation": "you (sg)-",
+                "base": "2sg"
             },
             {
-                "translation": "as he/she",
-                "id": "3sg"
+                "id": "ind3sg",
+                "translation": "he/she-",
+                "base": "3sg"
             }
         ]
     },
@@ -84,7 +90,7 @@
         "children": [
             {
                 "id": "none",
-                "translation": "No object"
+                "translation": "no object"
             }
         ]
     }
